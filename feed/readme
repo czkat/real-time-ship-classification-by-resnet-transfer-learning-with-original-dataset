@@ -1,0 +1,6 @@
+This is a stand alone prediction module with tuned ResNet model
+
+How to use this tool:
+1. Replicate the jupyter notebook environment by 'env.txt' file using command 'conda env create --file env.txt'
+2. Open google earth on left side of screen, and file 'feed.ipynb' from jupyter notebook on the right. Zoom in to the ship. An example is shown in example folder.
+
